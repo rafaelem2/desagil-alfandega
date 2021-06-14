@@ -9,6 +9,6 @@ public class ItemTarifado extends Item {
 	}
 
 	public double getTarifa() {
-		return this.tarifa;
+		return tarifa;
 	}
 }
